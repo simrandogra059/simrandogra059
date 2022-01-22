@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @simrandogra059
-- 🌱 I’m currently learning SQL
 - 📫 How to reach me simran059mca21@igdtuw.ac.in
 
 <!---
